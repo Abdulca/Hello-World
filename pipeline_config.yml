@@ -25,7 +25,7 @@ general:
   automaticVersioning: true
 
 ### Step-specific configuration
-steps:
+#steps:
 
 
 ### Stage-specific configuration
