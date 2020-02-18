@@ -21,7 +21,8 @@
 
 ### General project setup
 general:
-
+  productiveBranch: 'master'
+  automaticVersioning: true
 
 ### Step-specific configuration
 steps:
